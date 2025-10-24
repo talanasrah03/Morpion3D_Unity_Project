@@ -41,8 +41,7 @@ Bachelor’s Student – L3 MIAGE
 (*Méthodes Informatiques Appliquées à la Gestion des Entreprises*)  
 Université Paris Cité  
 
-📍 Current focus: Software Engineering, Game Development & Applied AI  
-📧 [GitHub Profile](https://github.com/talanasrah03)
+==> Preview : https://drive.google.com/file/d/1H1ovIq99g9LB_Li36_TbjSCU4U4UkkR2/view
 
 ---
 
