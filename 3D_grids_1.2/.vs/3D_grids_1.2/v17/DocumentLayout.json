@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|c:\\users\\msi\\2024-l2j1\\branche\\tala\\3d_grids_1.2\\assets\\iconselectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|solutionrelative:assets\\iconselectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|c:\\users\\msi\\2024-l2j1\\branche\\tala\\3d_grids_1.2\\assets\\scenes\\gridspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gridspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|c:\\users\\msi\\2024-l2j1\\branche\\tala\\3d_grids_1.2\\assets\\scenes\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\assets\\accueilmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE43AE11-9FDC-3CE4-7B8D-06DC3D50A37C}|Assembly-CSharp.csproj|solutionrelative:assets\\accueilmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IconSelectionData.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\IconSelectionData.cs",
+              "RelativeDocumentMoniker": "Assets\\IconSelectionData.cs",
+              "ToolTip": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\IconSelectionData.cs",
+              "RelativeToolTip": "Assets\\IconSelectionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:38:40.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridSpaceController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\Scenes\\GridSpaceController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\GridSpaceController.cs",
+              "ToolTip": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\Scenes\\GridSpaceController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\GridSpaceController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:03:00.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\Scenes\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\GameManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\Scenes\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\GameManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:59:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccueilManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\AccueilManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AccueilManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\2024-l2j1\\branche\\Tala\\3D_grids_1.2\\Assets\\AccueilManager.cs",
+              "RelativeToolTip": "Assets\\AccueilManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:35:51.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
